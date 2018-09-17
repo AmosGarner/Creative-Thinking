@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "yarn add --save-dev Creative-Thinking"
+theme = "reveal-presentation"
+[params]
+description = "Description of presentation"
+author = "Amos Garner"
