@@ -1,7 +1,8 @@
 baseURL = "https://trusting-kepler-0a93bf.netlify.com/"
 languageCode = "en-us"
-title = "yarn add --save-dev Creative-Thinking"
+title = "Creative-Thinking"
 theme = "reveal-presentation"
 [params]
 description = "Description of presentation"
 author = "Amos Garner"
+theme = "blood"
